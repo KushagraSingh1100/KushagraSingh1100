@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushagraSingh1100
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Structures
+- 👀 I’m interested in Coding and Gaming
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me via my insta: kushagraasinghh
 
